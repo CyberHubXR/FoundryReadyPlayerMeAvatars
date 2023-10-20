@@ -1,15 +1,16 @@
 {
-    "name": "com.cyberhub.foundry.example",
-    "displayName": "Template Package",
-    "version": "0.0.1-preview",
+    "name": "com.cyberhub.foundry.avatar.readyplayerme",
+    "displayName": "Ready Player Me Avatars for Foundry",
+    "version": "0.1.4-preview",
     "unity": "2021.3",
-    "description": "Description here.",
+    "description": "An implementation of Foundry Avatars built with Ready Player Me.",
     "keywords": [
-        "foundry"
+        "foundry",
+        "avatar",
+        "ReadyPlayerMe"
     ],
-    "category": "",
+    "category": "Avatar",
     "dependencies": {
-    },
-    "samples": [
-    ]
+        "com.cyberhub.foundry.core": "0.1.4-preview"
+    }
 }

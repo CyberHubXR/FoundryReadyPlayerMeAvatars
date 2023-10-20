@@ -1,0 +1,19 @@
+{
+    "name": "Foundry.Avatar.ReadyPlayerMe.Setup",
+    "rootNamespace": "Foundry.Avatar.ReadyPlayerMe.Setup",
+    "references": [
+        "GUID:fdbcaec5f0c0cb04cbcc6dbdac102da5",
+        "GUID:695fc961570e58f4293948619467a6f4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
