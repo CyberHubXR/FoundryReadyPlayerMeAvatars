@@ -1,7 +1,7 @@
 {
     "name": "com.cyberhub.foundry.avatar.readyplayerme",
     "displayName": "Ready Player Me Avatars for Foundry",
-    "version": "0.1.6-preview",
+    "version": "0.2.0-preview",
     "unity": "2021.3",
     "description": "An implementation of Foundry Avatars built with Ready Player Me.",
     "keywords": [
@@ -11,6 +11,6 @@
     ],
     "category": "Avatar",
     "dependencies": {
-        "com.cyberhub.foundry.core": "~0.2.0-preview"
+        "com.cyberhub.brane.core" : "0.1.4-preview"
     }
 }
