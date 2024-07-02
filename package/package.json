@@ -11,6 +11,5 @@
     ],
     "category": "Avatar",
     "dependencies": {
-        "com.cyberhub.brane.core" : "0.1.4-preview"
     }
 }
